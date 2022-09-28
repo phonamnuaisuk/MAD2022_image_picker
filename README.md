@@ -1,4 +1,4 @@
-# click_counter
+# image_picker
 
 A new Flutter project created with https://flutlab.io
 
